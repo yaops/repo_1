@@ -1,0 +1,3 @@
+[submodule "mymodule"]
+	path = mymodule
+	url = git@github.com:yaops/repo_2.git
